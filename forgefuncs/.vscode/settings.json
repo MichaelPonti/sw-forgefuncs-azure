@@ -1,0 +1,9 @@
+{
+  "eslint.enable": false,
+  "tslint.enable": false,
+  "azureFunctions.projectRuntime": "~2",
+  "azureFunctions.projectLanguage": "JavaScript",
+  "azureFunctions.templateFilter": "Verified",
+  "azureFunctions.deploySubpath": ".",
+  "azureFunctions.preDeployTask": "installExtensions"
+}
